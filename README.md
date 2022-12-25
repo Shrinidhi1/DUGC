@@ -1,6 +1,6 @@
 # DUGC
 
-- D2 Modules that are Integrated -
+## MODULES
 
   - Minor Analysis
   - End sem Analysis
